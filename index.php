@@ -8,6 +8,7 @@
     <body>
         <?php
         echo "Hola alumnes";
+        echo "Nueva linea";
         
         ?>
     </body>
